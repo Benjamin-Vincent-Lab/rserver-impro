@@ -1,5 +1,7 @@
 # rserver-impro
 
+* This package originally resided at https://github.com/Benjamin-Vincent-Lab/rserver-impro , it was moved here on 2/12/2024
+
 ## Introduction
 This Dockerfile is used to run an ImPro compatible environment.
 
